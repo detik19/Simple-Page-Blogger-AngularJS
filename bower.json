@@ -1,0 +1,15 @@
+{
+  "name": "sp-blogger",
+  "authors": [
+    "Tedy Tri Saputro <tedy.saputro@ruangtedy.net>"
+  ],
+  "description": "",
+  "main": "index",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.9",
+    "angular-ui-router": "^0.3.2",
+    "bootstrap": "^3.3.7"
+  }
+}
